@@ -4,25 +4,3 @@
   height: 200px;
   padding: 15px;
 }
-
-.info {
-  width: 960px;
-  height: 960px;
-  padding: 20px;
-  margin: 0 auto;
-  margin-top: 50px;
-  background: #ffffff;
-  border: 15px #dddddd;
-  color: #777777;
-}
-
-.text {
-  color: #777777;
-  padding-left: 15px;
-}
-
-.logo {
-  font-family: sans-serif;
-  font-weight: bold;
-  color: white;
-}
