@@ -6,3 +6,8 @@ div.container {
 .gallery_product {
     margin-bottom: 15px;
 }
+
+.btn-default {
+  border: 2px solid black;
+  margin: 5px;
+}
